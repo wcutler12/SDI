@@ -1,0 +1,118 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Cutler_William_RestaurantCalc
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+             William Cutler
+             SDI Section 01
+             Restaurant Calculator
+             08/03/2018
+             */
+
+            //Introducing the user to the Tip Calculator
+            Console.WriteLine("Hi, I am glad you enjoyed your meal, this helpful calculator can assist you with figuring out how much you would like to tip.");
+            Console.WriteLine("The totals for all meals and tips will be provided after all users have finished entering their information, thank you.");
+            //Asking user 1 for their name
+            Console.WriteLine("Can the first guest please type their name and press enter?");
+            //Capturing their input
+            string user1 = Console.ReadLine();
+            //Asking user 1 for the cost of their meal
+            Console.WriteLine("Thank you "+user1+" for dining with us, how much was your meal tonight? Please press enter after entering the amount.");
+            //Capturing their input for the price of their meal
+            string meal1 = Console.ReadLine();
+            //Asking user 1 how much they would like to tip
+            Console.WriteLine("And how much would you like to add as a tip? Please enter the number as a percentage and press enter.");
+            //Capturing the input for the tip
+            string tip1 = Console.ReadLine();
+
+            //Moving to user 2
+            //Asking user 2 for their name
+            Console.WriteLine("Can the second guest please type their name and press enter?");
+            //Capturing their input
+            string user2 = Console.ReadLine();
+            //Asking user 2 for the cost of their meal
+            Console.WriteLine("Thank you " + user2 + " for dining with us, how much was your meal tonight? Please press enter after entering the amount.");
+            //Capturing their input for the price of their meal
+            string meal2 = Console.ReadLine();
+            //Asking user 2 how much they would like to tip
+            Console.WriteLine("And how much would you like to add as a tip? Please enter the number as a percentage and press enter.");
+            //Capturing the input for the tip
+            string tip2 = Console.ReadLine();
+
+            //Moving to user 3
+            //Asking user 3 for their name
+            Console.WriteLine("Can the third guest please type their name and press enter?");
+            //Capturing their input
+            string user3 = Console.ReadLine();
+            //Asking user 3 for the cost of their meal
+            Console.WriteLine("Thank you " + user3 + " for dining with us, how much was your meal tonight? Please press enter after entering the amount.");
+            //Capturing their input for the price of their meal
+            string meal3 = Console.ReadLine();
+            //Asking user 3 how much they would like to tip
+            Console.WriteLine("And how much would you like to add as a tip? Please enter the number as a percentage and press enter.");
+            //Capturing the input for the tip
+            string tip3 = Console.ReadLine();
+
+            //Converting user inputs for meals and tips into usable numbers
+            decimal meal1Double = decimal.Parse(meal1);
+            decimal meal2Double = decimal.Parse(meal2);
+            decimal meal3Double = decimal.Parse(meal3);
+            decimal tip1Double = decimal.Parse(tip1);
+            decimal tip2Double = decimal.Parse(tip2);
+            decimal tip3Double = decimal.Parse(tip3);
+
+            //Calculating the tip for the meals 
+            decimal mealTip1 = meal1Double * tip1Double * 0.01;
+            decimal mealTip2 = meal2Double * tip2Double * 0.01;
+            decimal mealTip3 = meal3Double * tip3Double * 0.01;
+
+            //Calculating the meal including the tip
+            decimal mealTotal1 = meal1Double + mealTip1;
+            decimal mealTotal2 = meal2Double + mealTip2;
+            decimal mealTotal3 = meal3Double + mealTip3;
+
+            //Calculating the total cost of all meals
+            decimal completeMeal = mealTotal1 + mealTotal2 + mealTotal3;
+
+            //Calculating the cost of splittling the meal
+            decimal mealAverage = completeMeal / 3;
+
+            //Calculating the tips for the waiter
+            decimal waiterTips = mealTip1 + mealTip2 + mealTip3;
+
+            //Displaying the cost of each meal individually
+            Console.WriteLine("Thank you, now I will display the total of your individual meals.");
+            Console.WriteLine(user1 + " the total of your meal is $" + mealTotal1);
+            Console.WriteLine(user2 + " the total of your meal is $" + mealTotal2);
+            Console.WriteLine(user3 + " the total of your meal is $" + mealTotal3);
+
+            //Displying the cost of the total meal
+            Console.WriteLine("The total cost of the meals together will be $" + completeMeal);
+
+            //Displaying the total if the decided to split the bill evenly
+            Console.WriteLine("If you would like to split the cost of the meal evenly, you would each pay $" + mealAverage);
+
+            //Displaying how much the waiter would get in tips
+            Console.WriteLine("And the total amount of that you have tipped your waiter is $" + waiterTips);
+
+            //Ending the code
+            Console.WriteLine("Thank you for your time, we hope to see you again.");
+
+
+
+
+
+
+
+
+        }
+    }
+}
