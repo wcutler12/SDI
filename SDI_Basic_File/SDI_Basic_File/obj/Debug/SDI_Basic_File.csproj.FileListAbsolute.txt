@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\bin\Debug\SDI_Basic_File.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\bin\Debug\SDI_Basic_File.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\bin\Debug\SDI_Basic_File.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.pdb
