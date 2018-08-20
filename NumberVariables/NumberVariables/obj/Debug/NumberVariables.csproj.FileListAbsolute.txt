@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\bin\Debug\NumberVariables.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\bin\Debug\NumberVariables.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\bin\Debug\NumberVariables.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\obj\Debug\NumberVariables.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\obj\Debug\NumberVariables.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\obj\Debug\NumberVariables.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\NumberVariables\NumberVariables\obj\Debug\NumberVariables.pdb
