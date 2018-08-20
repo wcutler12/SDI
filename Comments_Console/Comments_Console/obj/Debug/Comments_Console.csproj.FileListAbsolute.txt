@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\bin\Debug\Comments_Console.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\bin\Debug\Comments_Console.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\bin\Debug\Comments_Console.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\obj\Debug\Comments_Console.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\obj\Debug\Comments_Console.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\obj\Debug\Comments_Console.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\Comments_Console\Comments_Console\obj\Debug\Comments_Console.pdb
