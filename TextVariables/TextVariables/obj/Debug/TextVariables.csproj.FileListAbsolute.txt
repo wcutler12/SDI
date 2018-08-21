@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\bin\Debug\TextVariables.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\bin\Debug\TextVariables.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\bin\Debug\TextVariables.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\obj\Debug\TextVariables.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\obj\Debug\TextVariables.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\obj\Debug\TextVariables.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2017\Projects\TextVariables\TextVariables\obj\Debug\TextVariables.pdb
